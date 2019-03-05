@@ -9,6 +9,22 @@
                 "/video/series/*",
                 "/telecastcard/telecast/*"
             ]
+        },
+        {
+            "appID": "J7ZLHU2H44.ru.mts.tv",
+            "paths": [
+                "/video/movie/*",
+                "/video/series/*",
+                "/telecastcard/telecast/*"
+            ]
+        },
+        {
+            "appID": "5YLUAUJ2B9.ru.mts.tvh",
+            "paths": [
+                "/video/movie/*",
+                "/video/series/*",
+                "/telecastcard/telecast/*"
+            ]
         }
         ]
     }
