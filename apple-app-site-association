@@ -5,7 +5,9 @@
         {
             "appID": "8L4AHXQWJ2.com.streetinfotech.tv",
             "paths": [
-                "*"
+                "/video/movie/*",
+                "/video/series/*",
+                "/telecastcard/telecast/*"
             ]
         }
         ]
